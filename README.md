@@ -1,1 +1,1 @@
-# springBootDemo
+# spring-boot-demo
